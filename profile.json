@@ -1,0 +1,32 @@
+{
+  "github_user": "Priyanshu-Barnwal",
+  "skills": {
+    "strong": ["TODO: list what you already know well, e.g. languages, frameworks, databases"],
+    "stretch": ["GenAI / LLM tooling", "Python", "multithreading / concurrency", "asyncio"],
+    "avoid": ["blockchain", "web3", "ethereum", "solana", "nft", "defi", "smart contract"]
+  },
+  "search": {
+    "queries": [
+      "topic:llm language:python good-first-issues:>2",
+      "topic:rag language:python good-first-issues:>2",
+      "topic:generative-ai language:python help-wanted-issues:>2",
+      "topic:ai-agents language:python good-first-issues:>2",
+      "topic:asyncio language:python good-first-issues:>1",
+      "topic:concurrency language:python help-wanted-issues:>1"
+    ],
+    "per_query": 30,
+    "min_stars": 300,
+    "max_stars": 30000,
+    "pushed_within_days": 30
+  },
+  "issue_labels": [
+    "good first issue", "good-first-issue", "Good First Issue",
+    "help wanted", "help-wanted", "Help Wanted",
+    "beginner", "easy", "first-timers-only", "contributions welcome"
+  ],
+  "filters": {
+    "min_suitable_issues": 3,
+    "max_candidates": 60
+  },
+  "shortlist_size": 12
+}
